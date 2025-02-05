@@ -70,7 +70,7 @@
 
 ###
 
-<div align="center">
+<div align="center flex">
   <img src="https://github-readme-stats.vercel.app/api?username=Md-parvej-hossain&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="195" alt="stats graph"  />
  <a href="https://github.com/Nirzak">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Nirzak" alt="GitHub Streak">
