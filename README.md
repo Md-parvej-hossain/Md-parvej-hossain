@@ -68,8 +68,16 @@
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
 </div>
 
+
 ###
 
+<h2 align="left">Current Activities :</h2>
+
+###
+
+<p align="left">🚀I am learning Next.js and using advanced features of React.<br>🚀I am working on improving the 'Donate Bangladesh' website.<br>🚀I am practicing API development using Node.js and MongoDB.</p>
+
+###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Md-parvej-hossain&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
  <img src="https://nirzak-streak-stats.vercel.app/?user=Nirzak" alt="GitHub Streak" height="150">
