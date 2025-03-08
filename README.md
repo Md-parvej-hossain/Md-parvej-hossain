@@ -26,7 +26,7 @@
 
 
 ## 🌐 Socials:
-<p align="center"> <a href="https://facebook.com/md.parvej.hossen.587630"> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"> </a> <a href="https://linkedin.com"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"> </a> <a href="https://x.com/MdParvej3989551"> <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"> </a> <a href="mailto:parvejhossainweb@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"> </a> </p>
+<p align="center"> <a width="200px" href="https://facebook.com/md.parvej.hossen.587630"> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"> </a> <a href="https://linkedin.com"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"> </a> <a href="https://x.com/MdParvej3989551"> <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"> </a> <a href="mailto:parvejhossainweb@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"> </a> </p>
 
 
 
