@@ -91,11 +91,7 @@
 </div>
 
 ###
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Md-parvej-hossain&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=Md-parvej-hossain&icon=0&color=0)](https://visitcount.itsvg.in)
 ## 🌐 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/piash2k)
