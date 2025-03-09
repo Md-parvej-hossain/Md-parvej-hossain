@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">I’m a Front End Web developer. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind. I pride myself on doing quality work and maintaining excellent communication.Most of the time I work with ReactJS but some technologies I enjoy working with include MongoDB,Express,NextJS as well as Python.</p>
+<p align="left">I’m a MERN Stack Developer. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind. I pride myself on doing quality work and maintaining excellent communication.Most of the time I work with ReactJS, MongoDB, Express, NextJS, NodeJS but some of my favorite technologies to work with are Python, Django ,PHP.</p>
 
 ###
 
