@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img   src="https://i.ibb.co.com/LzxQ2Tcw/github.png"  />
+  <img  width="100%" src="https://i.ibb.co.com/LzxQ2Tcw/github.png"  />
 </div>
 
 ###
