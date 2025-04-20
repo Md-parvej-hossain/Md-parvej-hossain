@@ -2,9 +2,9 @@
 
 ###
 
-<div align="center">
+
   ![Image](https://github.com/user-attachments/assets/43326d52-cf29-462b-97a1-919dcd24fe22)
-</div>
+
 
 ###
 
